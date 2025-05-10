@@ -1,0 +1,10 @@
+{
+  "usuarios": {
+    "id-exemplo-aqui": {
+      "status": "ativo",
+      "expira": "2025-12-31",
+      "nome": "Victor",
+      "empresa": "Fotoluz"
+    }
+  }
+}
