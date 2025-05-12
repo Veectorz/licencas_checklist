@@ -1,7 +1,7 @@
 {
   "usuarios": {
     "22e43b94-8b39-46f3-91a6-3e94963a95c9": {
-      "status": "bloqueado",
+      "status": "ativo",
       "expira": "2025-12-31",
       "nome": "Willyam",
       "empresa": "Fotoluz"
